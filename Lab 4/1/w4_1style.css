@@ -1,2 +1,5 @@
-#myContainer {margin:200px 200px 200px 200px; border: black 3px solid}
-#test1 {color: red;}
+body {background-color: blue}
+.myContainer {margin:8.5% 7.5% 30% 7.5%; border: black 5px solid; padding:15px 15px 1px 1px }
+#test1 {font-family: times, sans-serif; color: red; text-decoration: }
+.dashline {margin: 15px 15px 25px 2px; border: green 2px dashed}
+.dashline2 {margin: 20px 20px 20px 20px; border: white 2px dashed}

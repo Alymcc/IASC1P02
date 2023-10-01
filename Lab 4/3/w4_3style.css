@@ -1,4 +1,5 @@
 body {background-color: green}
-#firstline {color: red}
-#secondline {color: darkgreen}
-#thirdline {color: purple}
+.box1 {margin:1px 15px 22px 15px; border: black 5px dotted; padding:15px 15px 15px 10px}
+#firstline {color: red; font-size: 20px}
+#secondline {color: darkgreen; font-size: 20px}
+#thirdline {color: purple;font-size: 20px}
