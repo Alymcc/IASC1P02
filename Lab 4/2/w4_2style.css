@@ -1,7 +1,7 @@
 .box11 {margin:5px 5px 25px 5px; border: purple 3px dotted; padding-top: 230px; padding-bottom: 25px}
 #line1 {text-align: center;}
 #line2 {color: green; font-size: 10px;font-weight: bold; text-align: center;}
-.line3 {color: orange; font-size: 30px}
-#line3a {color:red;}
+.line3 {color: orange; font-size: 35px}
+#line3a {color:red; position: relative; bottom: 10px}
 .line4 {color:purple; font-size: 7px; text-align: right;}
 #line4a {color: yellow}
