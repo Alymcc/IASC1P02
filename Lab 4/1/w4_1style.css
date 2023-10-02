@@ -2,4 +2,4 @@ body {background-color: blue}
 .myContainer {margin:8.5% 7.5% 30% 7.5%; border: black 5px solid; padding:15px 10px 1px 1px }
 #test1 {font-family: arial, sans-serif; color: red; font-weight:lighter;}
 .dashline {margin: 15px 15px 25px 15px; border: green 2px dashed}
-#dashline2 {border:tan 2px dashed;}
+#dashline2 {border:tan 2px dashed; padding:15px 0px 15px 15px }
