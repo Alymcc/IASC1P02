@@ -1,0 +1,9 @@
+body {color:white; background-color: black}
+
+#wraper {width:1500px; margin:0 auto; background-color: white}
+
+#header {height: 80px; text-align: center;background-color: red; padding: 5px}
+
+#leftside {height: 650px; background-color: green; padding: 5px}
+
+#footer {height: 80px ;background-color: blue; padding: 5px}
