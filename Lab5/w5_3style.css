@@ -1,7 +1,7 @@
-body {background-color: green}
+body {background-color: green; font-size: 18px}
 
-.topleft {position: fixed; top: 15px; left: 280px; height:335px; width:335px; background-color: blue; text}
+.topleft {position: fixed; top: 15px; left: 280px; height:335px; width:335px; background-color: blue;}
 
 .mmiddle {position: fixed; top:350px; left: 720px; height:335px; width:335px; background-color: yellow}
 
-.topright {position: fixed; top: 15px; left: 1160px; height:335px; width:335px; background-color: red}
+.topright {position: fixed; top: 15px; left: 1160px; height:335px; width:335px; background-color: red;}
