@@ -4,10 +4,10 @@ body {color:black; background-color: green;}
 
 #header {height: 120px; text-align: center;background-color: red;}
 
-#leftside {height: 50px; width:95px; background-color: pink; padding: 5px;}
+#leftside {height: 50px; width:90px; background-color: pink; padding: 5px; float: left;}
 
-#rside {height: 50px; width:580px; background-color: orange; padding: 5px;}
+#rside {height: 50px; width:590px; background-color: orange; padding: 5px; float: right;}
 
-#content {height: 250px; background-color: blue;padding: 5px; clear: both;}
+#content {clear: both; height: 250px; width: 700px; background-color: blue;padding: 5px;}
 
-#footer {height: 80px ;background-color: yellow;padding: 5px;clear: both;}
+#footer {height: 80px ;background-color: yellow;padding: 5px; float: none;}
