@@ -1,0 +1,7 @@
+body {background-color: green}
+
+.topleft {position: fixed; top: 15px; left: 285px; height:340px; width:330px; background-color: blue}
+
+.mmiddle {position: fixed; top:355px; left: 670px; height:340px; width:330px; background-color: yellow}
+
+.topright {position: fixed; top: 15px; left: 1160px; height:340px; width:330px; background-color: red}

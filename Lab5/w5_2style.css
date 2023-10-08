@@ -1,13 +1,13 @@
 body {color:black; background-color: green;}
 
-#wraper {width:700px; margin:0 auto; background-color: white}
+#wraper {width:1000px; margin:0 auto; background-color: white; font-weight: bold; font-size: 20px}
 
-#header {height: 120px; text-align: center;background-color: red;}
+#header {height: 120px; text-align: center; background-color: red;}
 
-#leftside {height: 50px; width:90px; background-color: pink; padding: 5px; float: left;}
+#leftside {float: left; height: 100px; width: 250px; background-color: pink; padding: 5px}
 
-#rside {height: 50px; width:590px; background-color: orange; padding: 5px; float: left;}
+#rside {float: inherit; height: 100px; width: auto; background-color: orange;}
 
-#content {height: 250px; background-color: blue; padding: 5px; clear: both;}
+#content {clear: both; float: left; height: 550px; width: 1000px; background-color: blue;}
 
-#footer {height: 80px ;background-color: yellow;padding: 5px; float: none;}
+#footer {height: 80px; width:1000px ;background-color: yellow; clear: both;}
