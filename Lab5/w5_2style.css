@@ -2,12 +2,12 @@ body {color:black; background-color: green;}
 
 #wraper {width:1000px; margin:0 auto; background-color: white; font-weight: bold; font-size: 20px}
 
-#header {height: 120px; text-align: center; background-color: red;}
+#header {height: 100px; text-align: center; background-color: red;}
 
-#leftside {float: left; height: 100px; width: 250px; background-color: pink; padding: 5px}
+#leftside {float: left; height: 100px; width: 290px; background-color: pink; padding-top: 5px;}
 
-#rside {float: inherit; height: 100px; width: auto; background-color: orange;}
+#rside {float: initial; height: 100px; width: auto; background-color: orange; padding-top: 5px;}
 
-#content {clear: both; float: left; height: 550px; width: 1000px; background-color: blue;}
+#content {float: left; height: 700px; width: 1000px; background-color: blue;}
 
-#footer {height: 80px; width:1000px ;background-color: yellow; clear: both;}
+#footer {height: 80px; width:990px ;background-color: yellow; padding: 5px; clear: both;}
