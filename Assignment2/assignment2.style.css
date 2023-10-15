@@ -2,6 +2,6 @@ body{background-color: orange; font-size: 15px; color:blue}
 .list1 {font-size: 20px; color: blue}
 #lists {font-family:"cafe & Brewery", sans-serif;}
 #picbox {background-color: red; position: fixed; top:350px; left: 720px; height:75px; width:75px; margin: 10px 10px 20px 10px; border: purple 8px dashed; padding:3px 3px 3px 7px;}
-#headspot {position: absolute;top: 5px; left: 500px}
+#headspot {position: absolute;top: 5px; left: 500px; color: black}
 #phara1 {text-transform: capitalize;}
-#head2 {position: relative; top:1000px; color: black}
+#head2 {position: relative; top:1000px; color: white}
