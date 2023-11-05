@@ -5,4 +5,3 @@ document.write("Output Zero Here");
 function therest(){
 	document.ElementById("output3").innerHTML="Output Three Here";
 }
-
