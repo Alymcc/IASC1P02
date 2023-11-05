@@ -7,7 +7,7 @@ document.getElementById("red").style.color="red";
 function mix(){
 
 	var first = "#00BB00";
-	var second = "BB9320";
+	var second = "#BB9320";
 	var third = "#AB00FF";
 
 	document.getElementById("blue").style.color=first;
