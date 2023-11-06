@@ -8,20 +8,22 @@ body{background-color: white; font-size: 18px; color: black; font-family:Dejar; 
 
 #box3 {color: white; font-size: 20px; position:absolute; top: 570px; left: 200px; height:100px; width:1400px;}
 
-#box4{position: absolute;top:1200px;left: 50px; text-align: center;}
+#box4{position: absolute;top:1200px;left: 50px; width:800;text-align: center;}
 
-#logo2{float: left; height: 100px; width: 290px;}
+#logo1{position: absolute;width: 50%;height: auto;}
 
-#logo3 {float: initial; height: 100px;}
+#logo2{float: left; width: 50%;height: auto;}
 
-#box5{position: absolute;top:1200px;left:900px; text-align: center;}
+#logo3 {float: left; width: 50%;height: auto;}
 
-#box6{color:lightblue;position: absolute;top:1500px; text-align: center;}
+#box5{position: absolute;top:1200px;left:900px; width:800;text-align: center;}
 
-#box7{position: absolute;top:2500px;text-align: center;}
+#box6{color:lightblue;position: absolute;top:1800px; text-align: center;}
 
-#f {clear: both;position:absolute;top:3000px;left:800px;font-size:14px; color:red; font-family: "Arbutus Lab"; Arial; sans-serif;}
+#box7{position: absolute;top:2800px;text-align: center;}
 
-#boxf {clear: both;position: absolute;top:3080px;left:790px;background-color: white;}
+#f {clear: both;position:absolute;top:3100px;left:800px;font-size:14px; color:red; font-family: "Arbutus Lab"; Arial; sans-serif;}
+
+#boxf {clear: both;position: absolute;top:3180px;left:800px;background-color: white;}
 
 .bigger {font-size: 25px}
