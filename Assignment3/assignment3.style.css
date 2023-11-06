@@ -1,3 +1,5 @@
 body{background-color: white; font-size: 18px; color: black; font-family:Dejar; Arial; sans-serif;}
-.headerfooter {font-size:14px; color:red; font-family: "Arbutus Lab"; Arial; sans-serif; position:relative;float: right;}
+#h {font-size:14px; color:red; font-family: "Arbutus Lab"; Arial; sans-serif; position:relative;float: right;}
 #box1 {position: relative;float: left; height:55px; width:72px;}
+#box2 {position: relative;float: right;height:300px; width:1500px}
+#f {font-size:14px; color:red; font-family: "Arbutus Lab"; Arial; sans-serif; position:relative;float: right;}
