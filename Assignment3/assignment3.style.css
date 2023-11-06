@@ -1,6 +1,6 @@
 body{background-color: white; font-size: 18px; color: black; font-family:Dejar; Arial; sans-serif;}
 #h {font-size:14px; color:red; font-family: "Arbutus Lab"; Arial; sans-serif; position:relative;float: right;}
 #box1 {background-color: white; position: relative;float: left; height:55px; width:72px;}
-#box2 {height:300px; max-width: 100%}
-#box3 {}
+#box2 {height:300px; width: 100%; max-width: 1080px; display: block;}
+#box3 {color: white; font-size: 20px; top: 600px; left: 900px; height:100px; width:1800px;}
 #f {font-size:14px; color:red; font-family: "Arbutus Lab"; Arial; sans-serif; position:absolute;}
