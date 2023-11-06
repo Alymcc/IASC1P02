@@ -1,7 +1,25 @@
 body{background-color: white; font-size: 18px; color: black; font-family:Dejar; Arial; sans-serif;}
+
 #h {font-size:14px; color:red; font-family: "Arbutus Lab"; Arial; sans-serif; position:absolute;left:1600px}
+
 #box1 {background-color: white; position: relative;float: left; height:55px; width:72px;}
+
 #box2 {position:absolute; top: 70px; left:10px; width: 100%;height: auto;}
+
 #box3 {color: white; font-size: 20px; position:absolute; top: 570px; left: 200px; height:100px; width:1400px;}
+
+#logo1{float: left; height: 100px; width: 290px;}
+
+#logo2 {float: initial; height: 100px;}
+
+#box4{position: absolute;top:800px}
+
+#box5{position: absolute;top:800px;left:900px}
+
+#box6{position: absolute;top:1200px}
+
+#box7{position: absolute;top:1500px}
+
 #f {clear: both;position:absolute;top:3000px;left:800px;font-size:14px; color:red; font-family: "Arbutus Lab"; Arial; sans-serif;}
-#boxf {clear: both;position: absolute;top:3000px;left:790px;background-color: white;}
+
+#boxf {clear: both;position: absolute;top:3000px;left:790px;background-color: white;} 
