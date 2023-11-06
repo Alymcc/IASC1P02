@@ -4,7 +4,7 @@ body{background-color: white; font-size: 18px; color: black; font-family:Dejar; 
 
 #box1 {background-color: white; position: relative;float: left; height:55px; width:72px;}
 
-#box2 {position:absolute; top: 70px; left:10px; width: 100%;height: auto;}
+#box2 {position:absolute; top: 80px; left:10px; width: 100%;height: auto;}
 
 #box3 {color: white; font-size: 20px; position:absolute; top: 570px; left: 200px; height:100px; width:1400px;}
 
@@ -18,8 +18,10 @@ body{background-color: white; font-size: 18px; color: black; font-family:Dejar; 
 
 #box6{color:lightblue;position: absolute;top:1500px; text-align: center;}
 
-#box7{position: absolute;top:1800px;text-align: center;}
+#box7{position: absolute;top:2500px;text-align: center;}
 
 #f {clear: both;position:absolute;top:3000px;left:800px;font-size:14px; color:red; font-family: "Arbutus Lab"; Arial; sans-serif;}
 
 #boxf {clear: both;position: absolute;top:3080px;left:790px;background-color: white;}
+
+.bigger {font-size: 25px}
