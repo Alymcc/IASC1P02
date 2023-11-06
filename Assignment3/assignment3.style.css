@@ -2,6 +2,6 @@ body{background-color: white; font-size: 18px; color: black; font-family:Dejar; 
 #h {font-size:14px; color:red; font-family: "Arbutus Lab"; Arial; sans-serif; position:absolute;left:1600px}
 #box1 {background-color: white; position: relative;float: left; height:55px; width:72px;}
 #box2 {position:absolute; top: 70px; left:10px; width: 100%;height: auto;}
-#box3 {color: white; font-size: 20px; position:absolute; top: 350px; left: 200px; height:100px; width:1400px;}
-#f {font-size:14px; color:red; font-family: "Arbutus Lab"; Arial; sans-serif; position:absolute;top:2000px;left:auto;}}
-#boxf {background-color: white; position: absolute;top:2000px;height:55px; width:72px;}
+#box3 {color: white; font-size: 20px; position:absolute; top: 550px; left: 200px; height:100px; width:1400px;}
+#f {clear: both;position:absolute;top:2000px;left:800px;font-size:14px; color:red; font-family: "Arbutus Lab"; Arial; sans-serif;}
+#boxf {clear: both;position: absolute;top:2000px;left:800px;background-color: white;}
