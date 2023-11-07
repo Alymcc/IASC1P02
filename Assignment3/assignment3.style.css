@@ -28,4 +28,6 @@ body{background-color: white; font-size: 18px; color: black; font-family:Dejar; 
 
 #boxf {clear: both;position: absolute;top:3080px;left:800px;background-color: white;}
 
+#isocial {position: absolute;width: 25%;top:3080px;left:800px;height: auto;}
+
 .bigger {font-size: 25px}
