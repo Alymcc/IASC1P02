@@ -1,6 +1,6 @@
 body{background-color: white; font-size: 18px; color: black; font-family:Dejar; Arial; sans-serif;}
 
-#h {font-size:14px; color:red; font-family: "Arbutus Lab"; Arial; sans-serif; position:absolute;left:1470px}
+#h {font-size:14px; color:red; font-family: "Arbutus Lab"; Arial; sans-serif; position:absolute;left:1430px}
 
 #box1 {background-color: white; position: relative;float: left; height:55px; width:72px;}
 
@@ -29,7 +29,3 @@ body{background-color: white; font-size: 18px; color: black; font-family:Dejar; 
 #boxf {clear: both;position: absolute;top:3180px;left:800px;background-color: white;}
 
 .bigger {font-size: 25px}
-
-.containerimg {width: 100%; height: auto;}
-
-.btn{color:Blue }
