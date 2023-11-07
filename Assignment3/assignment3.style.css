@@ -1,10 +1,10 @@
 body{background-color: white; font-size: 18px; color: black; font-family:Dejar; Arial; sans-serif;}
 
-#h {font-size:14px; color:red; font-family: "Arbutus Lab"; Arial; sans-serif; position:absolute;left:1300px}
+#h {font-size:14px; color:red;display: inline-block;font-family: "Arbutus Lab"; Arial; sans-serif; position:absolute;left:1300px}
 
 #box1 {background-color: white; position: relative;float: left; height:55px; width:72px;}
 
-#box2 {position:absolute; top: 100px; left:10px; width: 100%;height: auto;}
+#box2 {position:absolute; top: 120px; left:10px; width: 100%;height: auto;}
 
 #box3 {color: white; font-size: 20px; position:absolute; top: 570px; left: 200px; height:100px; width:1400px;}
 
