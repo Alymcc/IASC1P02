@@ -10,7 +10,7 @@ body{background-color: white; font-size: 18px; color: black; font-family:Dejar; 
 
 #box4{position: absolute;top:1200px;left: 50px; width:800;text-align: center;}
 
-#logo1{float:left; width: 50%;height: auto;}
+#logo1{float:left; width: 25%;height: auto;}
 
 #logo2{float: left; width: 50%;height: auto;}
 
@@ -29,3 +29,7 @@ body{background-color: white; font-size: 18px; color: black; font-family:Dejar; 
 #boxf {clear: both;position: absolute;top:3180px;left:800px;background-color: white;}
 
 .bigger {font-size: 25px}
+
+.containerimg {width: 100%; height: auto;}
+
+.btn{color:Blue }
