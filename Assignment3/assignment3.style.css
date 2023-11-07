@@ -1,6 +1,6 @@
 body{background-color: white; font-size: 18px; color: black; font-family:Dejar; Arial; sans-serif;}
 
-#h {font-size:14px; color:red; font-family: "Arbutus Lab"; Arial; sans-serif; position:absolute;left:1490px}
+#h {font-size:14px; color:red; font-family: "Arbutus Lab"; Arial; sans-serif; position:absolute;left:1470px}
 
 #box1 {background-color: white; position: relative;float: left; height:55px; width:72px;}
 
@@ -10,7 +10,7 @@ body{background-color: white; font-size: 18px; color: black; font-family:Dejar; 
 
 #box4{position: absolute;top:1200px;left: 50px; width:800;text-align: center;}
 
-#logo1{position: absolute;width: 50%;height: auto;}
+#logo1{float:left; width: 50%;height: auto;}
 
 #logo2{float: left; width: 50%;height: auto;}
 
@@ -20,9 +20,9 @@ body{background-color: white; font-size: 18px; color: black; font-family:Dejar; 
 
 #box6{color:lightblue;position: absolute;top:1800px; text-align: center;}
 
-#box7{position: absolute;top:2800px;text-align: center;}
+#box7{position: absolute;top:2710px;text-align: center;}
 
-#dis {position: absolute; width: 100%;height: auto; top:2800px;text-align: center;}
+#dis {position: absolute; top:2600px;left: 680px; width: 25%;height: auto;}
 
 #f {clear: both;position:absolute;top:3100px;left:800px;font-size:14px; color:red; font-family: "Arbutus Lab"; Arial; sans-serif;}
 
