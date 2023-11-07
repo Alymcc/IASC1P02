@@ -24,8 +24,8 @@ body{background-color: white; font-size: 18px; color: black; font-family:Dejar; 
 
 #dis {position: absolute; top:2600px;left: 680px; width: 25%;height: auto;}
 
-#f {clear: both;position:absolute;top:3100px;left:700px;font-size:14px; color:red; display: inline;font-family: "Arbutus Lab"; Arial; sans-serif;}
+#f {clear: both;position:absolute;top:3000px;left:700px;font-size:14px; color:red; display: inline;font-family: "Arbutus Lab"; Arial; sans-serif;}
 
-#boxf {clear: both;position: absolute;top:3180px;left:800px;background-color: white;}
+#boxf {clear: both;position: absolute;top:3080px;left:800px;background-color: white;}
 
 .bigger {font-size: 25px}
