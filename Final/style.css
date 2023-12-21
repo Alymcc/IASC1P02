@@ -1,0 +1,221 @@
+*{
+
+    margin: 0;
+
+    padding: 0;
+
+    box-sizing: border-box;
+
+}
+
+
+
+#container {
+
+    width: 80%;
+
+    margin: 0 auto;
+
+}
+
+
+
+#header {
+
+    background-color: #333;
+
+    color: white;
+
+    text-align: center;
+
+    padding: 20px;
+
+}
+
+
+
+#header img {
+
+    width: 100px;
+
+    height: 100px;
+
+}
+
+
+
+#header h1 {
+
+    font-family: "Fantasy", sans-serif;
+
+    font-size: 36px;
+
+}
+
+
+
+#header p {
+
+    font-family: "Arial", sans-serif;
+
+    font-size: 18px;
+
+}
+
+
+
+#menu {
+
+    background-color: #555;
+
+    color: white;
+
+}
+
+
+
+#menu ul {
+
+    list-style: none;
+
+    display: flex;
+
+    justify-content: space-around;
+
+}
+
+
+
+#menu ul li {
+
+    font-family: "Arial", sans-serif;
+
+    font-size: 18px;
+
+}
+
+
+
+#menu ul li a {
+
+    color: white;
+
+    text-decoration: none;
+
+}
+
+
+
+#menu ul li a:hover {
+
+    color: yellow;
+
+}
+
+
+
+#content {
+
+    background-color: #eee;
+
+    color: black;
+
+    padding: 20px;
+
+}
+
+
+
+#content h2 {
+
+    font-family: "Fantasy", sans-serif;
+
+    font-size: 24px;
+
+}
+
+
+
+#content p {
+
+    font-family: "Arial", sans-serif;
+
+    font-size: 18px;
+
+}
+
+
+
+#content img {
+
+    width: 300px;
+
+    height: 200px;
+
+}
+
+
+
+#footer {
+
+    background-color: #333;
+
+    color: white;
+
+    text-align: center;
+
+    padding: 20px;
+
+}
+
+
+
+#footer p {
+
+    font-family: "Arial", sans-serif;
+
+    font-size: 18px;
+
+}
+
+
+
+#footer ul {
+
+    list-style: none;
+
+    display: flex;
+
+    justify-content: center;
+
+}
+
+
+
+#footer ul li {
+
+    font-family: "Arial", sans-serif;
+
+    font-size: 18px;
+
+    margin: 0 10px;
+
+}
+
+
+
+#footer ul li a {
+
+    color: white;
+
+    text-decoration: none;
+
+}
+
+
+
+#footer ul li a:hover {
+
+    color: yellow;
+
+} 
